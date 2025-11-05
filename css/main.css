@@ -1,0 +1,16 @@
+body
+{
+	margin: 20;
+	padding: 20;
+	/*color: #d22424;*/
+	font: normal 10pt Calibri,Helvetica,sans-serif;
+	background: #EFEFEF;
+}
+
+h3 {
+    font: normal 18pt Calibri,Helvetica,sans-serif;
+}
+
+p {
+    font-size: medium;
+}
